@@ -1,0 +1,8 @@
+body, p {
+	font-family: helvetica;
+}
+
+.container {
+	margin: auto;
+	width: 600px;
+}
